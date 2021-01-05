@@ -8,7 +8,7 @@
 #                                                 /____/
 #
 # Title of your website
-title: 'Website title'
+title: 'Resource Transformation Ghana'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
 slogan: 'Website slogan'
@@ -21,11 +21,11 @@ description: 'Website description'
 
 # Main author of the website
 # See > authors.yml
-author: author
+author: KwekuWadee
 
 # This URL is the main address for absolute links. Don't include a slash at the end.
 #
-url: 'URL GOES HERE'
+url: 'https://rtghana.com'
 baseurl: '' # Must be "" (not "/") as "" is what GitHub pages will set
 
 # This is for the editing function in _/includes/improve_content
@@ -112,7 +112,7 @@ defaults:
       show_meta: false  # Hide metadata for all pages
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: author     # Default author for pages
+      author: KwekuWadee     # Default author for pages
   -
     scope:
       path: ''
@@ -121,7 +121,7 @@ defaults:
       show_meta: true   # Show metadata for all posts
       # sidebar:        # Possible values › left, right › by default there will be no sidebar
       comments: false
-      author: author     # Default author for posts
+      author: KwekuWadee     # Default author for posts
 
 
 
