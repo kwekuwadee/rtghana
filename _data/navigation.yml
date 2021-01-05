@@ -10,12 +10,16 @@
   url: "/about/"
   side: left
 
+- title: "Services"
+  url: "/services/"
+  side: left
+  
 - title: "Projects"
   url: "/projects/"
   side: left
 
-- title: "Explore"
-  url: "/explore/"
+- title: "Publications"
+  url: "/publications/"
   side: left
 
 - title: "Team"
