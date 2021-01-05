@@ -6,6 +6,7 @@ teaser:
 permalink: /index.html
 homepage: true
 header:
+  title: ""
   image_fullwidth: aboutph.jpg
 ---
 
