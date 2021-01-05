@@ -1,10 +1,10 @@
 - name: Email
-  url: mailto:EMAIL-GOES-HERE
+  url: mailto:kweku@rtghana.com
   class: icon-mail
   title: ""
 
 - name: LinkedIn
-  url: LINK-GOES-HERE
+  url: https://www.linkedin.com/in/kweku-attafuah-wadee-97328460/
   class: icon-linkedin
   title: ""
 
