@@ -8,10 +8,10 @@ header:
   title: ""
   image_fullwidth: pubimg.jpg
 ---
-* [Policy Approaches for Accelerating the Circular Economy in Africa][1] | circulareconomy.earth | Nov 2020
-* [Kweku Attafuah writes: Addressing solid waste management challenge brought on by COVID-19][2] | citinewsroom.com | Apr 2020
-* [Waste avoidance better strategy than disposal][3] | nation.africa | Jan 2020
-* ['Commodifying' waste; a solution for Accra's low-income areas][4] | citinewsroom.com | Apr 2018
+* [Policy Approaches for Accelerating the Circular Economy in Africa][1] \| circulareconomy.earth \| Nov 2020
+* [Kweku Attafuah writes: Addressing solid waste management challenge brought on by COVID-19][2] \| citinewsroom.com \| Apr 2020
+* [Waste avoidance better strategy than disposal][3] \| nation.africa \| Jan 2020
+* ['Commodifying' waste; a solution for Accra's low-income areas][4] \| citinewsroom.com \| Apr 2018
 
 
 
