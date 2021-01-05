@@ -9,7 +9,6 @@ header:
   image_fullwidth: compost.jpg
 ---
 
-<br/>
 ### Technical Advisory Services
 * Market and Policy Research
 * Circular Economy Business Model and General Business Development
