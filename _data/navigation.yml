@@ -6,10 +6,6 @@
   logo: true
   side: left
 
-- title: "About"
-  url: "/about/"
-  side: left
-
 - title: "Services"
   url: "/services/"
   side: left
