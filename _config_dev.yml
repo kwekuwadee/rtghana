@@ -79,4 +79,4 @@ google_analytics_tracking_id: false
 
 # # In terminal
 # git branch -D main               # delete the main branch
-# git push --set-upstream origin gh-pages                # set new branch as upstream
+# git push --set-upstream origin gh-pages                # set new branch as upstream!
