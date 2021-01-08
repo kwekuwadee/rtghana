@@ -14,8 +14,8 @@ In light of the increasing appreciation of environmental management as being cri
 
 As a boutique environmental consulting firm focusing on waste management and circular economy, we strive to assist clients achieve 3 important goals:
 
-* Understanding circular economy and resource/waste management dynamics.
-* Identifying avenues for improving in resource/waste management.
+* Understanding Africa's circular economy and resource/waste management dynamics.
+* Identifying avenues for enhancing resource/waste management.
 * Minimising environmental impact while simultaneously improving efficiency and business earnings.
 
 Our team aids clients in realising these objectives by providing stellar expertise in technical advisory, data analytics, and project management services. Additionally, we also assist clients develop resilient circular economy business models for an African market, as well as identify avenues for improving operational efficiency and reducing capital expenditure and operational costs.
