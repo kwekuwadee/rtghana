@@ -10,14 +10,11 @@ header:
   image_fullwidth: aboutph.jpg
 ---
 
-In light of the increasing appreciation of environmental management as being critical to economic and social welfare in Ghana and, more broadly, Africa, RESOURCE TRANSFORMATION GHANA (RTG) was established in 2018 to provide consultancy services to environmental sector stakeholders with sustainability-related interests in Africa. These stakeholders range from businesses, think tanks, private equity firms, non-profits, governmental bodies, and international development agencies.
+In light of the increasing appreciation of environmental management being critical to economic and social welfare in Ghana, and throughout Africa, **Resource Transformation Ghana (RTG)** was established in 2018 to provide consultancy services to environmental sector stakeholders with sustainability-related interests in Africa. We work with businesses, think tanks, private equity firms, non-profits, governmental bodies and international development agencies.
 
-As a boutique environmental consulting firm focusing on waste management and circular economy, we strive to assist clients achieve 3 important goals:
+As a boutique environmental consultancy focusing on waste management and circular economy, we strive to help our clients to achieve the following goals:
+* Understanding Africa's circular economy and resource/waste management dynamics
+* Identifying most promising avenues for improving resource/waste management
+* Minimising environmental impact while simultaneously improving operational efficiency and profitability
 
-* Understanding Africa's circular economy and resource/waste management dynamics.
-* Identifying avenues for enhancing resource/waste management.
-* Minimising environmental impact while simultaneously improving efficiency and business earnings.
-
-Our team aids clients in realising these objectives by providing stellar expertise in technical advisory, data analytics, and project management services. Additionally, we also assist clients develop resilient circular economy business models for an African market, as well as identify avenues for improving operational efficiency and reducing capital expenditure and operational costs.
-
-By leveraging industry insights and relationships in Africa and Europe, RTG is ideally positioned to effectively partner with clients along the difficult but exciting journey of developing fit-for-purpose solutions for environmental hurdles in Africa, thereby transforming challenges into opportunities for growth.
+We assist our clients with realising these objectives by providing stellar expertise in data analytics, technical advisory and project management. By leveraging our industry insights and relationships in Africa and Europe, we help our clients to develop resilient circular economy based business models for the African market. Together we can transform the environmental challenges into growth opportunities, and turn the difficult task of developing fit-for-purpose solutions into an exciting journey.
