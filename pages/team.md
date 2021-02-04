@@ -22,7 +22,7 @@ header:
 ### LEAD CONSULTANT
 RESOURCE TRANSFORMATION GHANA’s lead consultant is Kweku Attafuah-Wadee, an environmental professional with over 5 years of experience working with environmental and sanitation sector stakeholders in Ghana and the UK. Kweku possesses a critical insight into the prevailing policy and market trends in the waste management and broader environmental sector. Through his circular economy and environmental project experiences, he has also developed industry relationships with key environmental sector stakeholders in Africa and Europe.
 He has successfully conducted projects for a variety of organisations. Notable examples include:
-* World Bank Group
+* World Bank
 * Ministry of Environment, Science, Technology and Innovation (Ghana)
 * Council for Scientific and Industrial Research – Institute of Industrial Research (Ghana)
 * German Development Agency – GIZ (Ghana)
