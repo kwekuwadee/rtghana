@@ -21,6 +21,8 @@ header:
 <h2>Sample RTG reports:</h2>
 [Accra Municipal Solid Waste Report][pdf_file]{:target="_blank"}
 
+[Plastic Waste Management & Governance in Ghana][pdf_file2]{:target="_blank"}
+
 
 
 
@@ -30,3 +32,4 @@ header:
 [4]: https://citinewsroom.com/2018/04/commodifying-waste-a-solution-for-accras-low-income-areas/
 [pdf_file]: /pdfs/accra_msw_report.pdf
 [5]: https://citinewsroom.com/2021/03/plastic-waste-management-success-contingent-on-meeting-governance-commitments-article/
+[pdf_file2]: /pdfs/plastic_waste_management_and_governance_in_ghana.pdf
